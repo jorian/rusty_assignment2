@@ -1,0 +1,10 @@
+[package]
+name = "rusty_assignment2"
+version = "0.1.0"
+authors = ["Jorian <jorian@outlook.com>"]
+
+[dependencies]
+rusqlite = "0.15.0"
+serde = "1.0.81"
+serde_json = "*"
+serde_derive = "*"
